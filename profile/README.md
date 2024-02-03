@@ -1,7 +1,7 @@
 # SIGDAO - GitHub Profile
 
 Sigdao Foundation - Empower Web3 Startuper, Creator & dAPPer with Autonomous dApp Store, Web3 builder, and Community Power-up.
-Opensource, Decentralised & Funded by users.
+Opensource, Decentralised & Funded by users. 
 No non-tech investors, No bullshit. You have your say!
 
 > **About Me**
@@ -32,8 +32,15 @@ Below, you can find a curated selection of our noteworthy projects that highligh
 
 2. [Bettermi](https://bettermi.io): Web3 lifestyle dAPP that rewards users for fitness. Featured Selfie to Earn, BMI fitness tracking, 'green' NFT pass,  Workout game-fi and Charactered AI Coach.
 
-
 Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all of our public repositories and dive deeper into the exciting work we are doing!
+
+## SIGDAO TOKEN 🚀🌕
+
+Let's fund & vote for our own community dApp projects & ideas, No non-tech investors, No bullshit. You have your say!
+
+Trade SIGDAO Token at [Signumswap DEX:](https://www.signumswap.com/tokens/5453974739826751020)
+
+Support & Donate SIGDAO FOUNDATION with SIGNA$: [Signum account address: S-VQRE-VQGZ-MVKL-F6VGD](https://explorer.signum.network/address/15401014253724752620#)
 
 ## GitHub Stats 📈
 
