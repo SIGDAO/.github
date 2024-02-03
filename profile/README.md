@@ -32,6 +32,8 @@ Below, you can find a curated selection of our noteworthy projects that highligh
 
 2. [Bettermi](https://bettermi.io): Web3 lifestyle dAPP that rewards users for fitness. Featured Selfie to Earn, BMI fitness tracking, 'green' NFT pass,  Workout game-fi and Charactered AI Coach.
 
+3. [I-Academy NFT Certificate](https://www.signumart.io/profile/17748841132376126922): a Learn & Earn journey bridging the tech talent gap & empowering startupper, creator & SME with Blockchain & Web3 future-skills. As endorsed by leading education VTC - HK NITTP & TQUK RQF, we have successfully equipped learners for the future's decentralized economy, enhancing their companies' efficiency, security & competitiveness.
+
 Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all of our public repositories and dive deeper into the exciting work we are doing!
 
 ## SIGDAO TOKEN 🚀🌕
