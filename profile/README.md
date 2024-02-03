@@ -39,7 +39,7 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 
 Our GitHub presence speaks of our active involvement and commitment to open-source development. Let's take a look at our GitHub statistics:
 
-![SIGDAO's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=SIGDAO)
+![SIGDAO's GitHub Statistics](https://github-readme-stats.vercel.app/)
 
 From the statistics above, you can see our contribution to the Open-Source Community. It depicts our activity level and reflects the number of public repos we have curated over time.
 
@@ -48,7 +48,8 @@ From the statistics above, you can see our contribution to the Open-Source Commu
 To learn more about SIGDAO and the work we are doing, you can reach us through the following channels:
 
 - **Website:** Visit [SIGDAO.io](https://sigdao.io) for more information about our foundation and the projects we support.
-- **Email:** Please feel free to drop us an email at contact@sigdao.io if you have any queries or collaboration opportunities.
+- **Discord:** Join us at [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
+- **Email:** Please feel free to drop us an email at info@sigdao.io if you have any queries or collaboration opportunities.
 
 Don't forget to connect with us on Twitter: [![Twitter](https://img.shields.io/twitter/follow/sigdao_io?style=social)](https://twitter.com/sigdao_io)
 
