@@ -38,11 +38,13 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 
 ## SIGDAO TOKEN 🚀🌕
 
-Let's fund & vote for our own community dApp projects & ideas, No non-tech investors, No bullshit. You have your say!
+💡 Fund & Vote for our own community dApp projects & ideas with SIGDAO, No non-tech investors, No bullshit. You have your say! (Under Construction...)
 
-Trade SIGDAO Token at [Signumswap DEX:](https://www.signumswap.com/tokens/5453974739826751020)
+💡 Get SIGDAO token in above Projects and [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
 
-Support & Donate SIGDAO FOUNDATION with SIGNA$: [Signum account address: S-VQRE-VQGZ-MVKL-F6VGD](https://explorer.signum.network/address/15401014253724752620#)
+💡 Trade SIGDAO Token at [Signumswap DEX:](https://www.signumswap.com/tokens/5453974739826751020)
+
+💡 Support & Donate SIGDAO FOUNDATION with SIGNA$: [Signum account address: S-VQRE-VQGZ-MVKL-F6VGD](https://explorer.signum.network/address/15401014253724752620#)
 
 ## GitHub Stats 📈
 
