@@ -38,7 +38,7 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 
 ## SIGDAO TOKEN 🚀🌕
 
-💡 Fund & Vote for our own community dApp projects & ideas with SIGDAO, No non-tech investors, No bullshit. You have your say! (Under Construction...)
+💡 Fund & Vote for your ideas & our own community dApp projects with SIGDAO, No non-tech investors, No bullshit. You have your say! (Under Construction...)
 
 💡 Get SIGDAO token in above Projects and [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
 
