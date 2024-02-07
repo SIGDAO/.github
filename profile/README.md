@@ -16,7 +16,7 @@ At SIGDAO, we bring a diverse skill set to the table and actively explore emergi
 
 **Smart Contracts and Blockchain:** **SignumJS, SmartJ, SmartC, SignumJ, Signum.network Nodes**
 
-**Decentralized Applications (dApps):** SIGDAO.IO, Bettermi, Wallets, IPFS,
+**Decentralized Applications (dApps):** SIGDAO.IO, Bettermi, Signum XT-Wallet, Phoenix Wallet, IPFS,
 
 **Infrastructure and DevOps:** Docker, Kubernetes, AWS, OVHcloud, Vercel, Netlify,
 
