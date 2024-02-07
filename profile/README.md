@@ -1,4 +1,4 @@
-# SIGDAO - GitHub Profile
+# SIGDAO - Together we build web3 dAPP better! JOIN US! 
 
 Sigdao Foundation - Empower Web3 Startuper, Creator & dAPPer with Autonomous dApp Store, Web3 builder, and Community Power-up.
 Opensource, Decentralised & Funded by users. 
@@ -10,21 +10,21 @@ No non-tech investors, No bullshit. You have your say!
 
 ![SIGDAO Logo](https://pbs.twimg.com/profile_images/1690982903273213952/R_lbVNMA_400x400.jpg)
 
-## Skills and Interests 💡
+## Tech Stacks 💡
 
 At SIGDAO, we bring a diverse skill set to the table and actively explore emerging technologies in the Web3 space. Here is a peek at some of our areas of expertise:
 
-**Web Development:** JavaScript (React, Vuejs, Nextjs, Expressjs, Millionjs), HTML, CSS, TypeScript, REST APIs,
+**Smart Contracts and Blockchain:** **SignumJS, SmartJ, SmartC, SignumJ, Signum.network Nodes**
 
-**Smart Contracts and Blockchain:** SignumJS, SmartJ, SmartC, SignumJ, Signum.network
+**Decentralized Applications (dApps):** SIGDAO.IO, Bettermi, Wallets, IPFS,
 
-**Decentralized Applications (dApps):** IPFS, SIGDAO, Bettermi, Wallets
+**Infrastructure and DevOps:** Docker, Kubernetes, AWS, OVHcloud, Vercel, Netlify,
 
-**Infrastructure and DevOps:** Docker, Kubernetes, AWS, OVHcloud, Vercel
+**Web Development:** JavaScript (React, Vuejs, Nextjs, Expressjs, Millionjs), HTML, CSS, TypeScript, MongoDB, REST APIs,
 
 We are enthusiastic learners with a constant drive to stay updated with the latest web technologies and tools. Through our projects, we aim to catalyze innovation, foster collaboration, and expand the capabilities of the Web3 ecosystem.
 
-## Active Projects 🚀
+## Active dAPP Projects 🚀
 
 Below, you can find a curated selection of our noteworthy projects that highlight our diverse work in the Web3 domain. Click on the project titles to explore further:
 
@@ -42,7 +42,7 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 
 💡 Vote & Fund for your project and community projects with SIGDAO, No non-tech investors, No bullshit. You have your say! (Under Construction...)
 
-💡 Get SIGDAO token in above Projects and [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
+💡 Get SIGDAO token by contributing or playing in above Projects and [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
 
 💡 Trade SIGDAO Token at [Signumswap DEX:](https://www.signumswap.com/tokens/5453974739826751020)
 
