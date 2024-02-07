@@ -16,7 +16,7 @@ At SIGDAO, we bring a diverse skill set to the table and actively explore emergi
 
 **Smart Contracts and Blockchain:** **SignumJS, SmartJ, SmartC, SignumJ, Signum.network Nodes**
 
-**Decentralized Applications (dApps):** SIGDAO.IO, Bettermi, Signum XT-Wallet, Phoenix Wallet, IPFS,
+**Decentralized Applications (dApps):** SIGDAO.IO, Bettermi.io, Signum XT-Wallet, Phoenix Wallet, IPFS,
 
 **Infrastructure and DevOps:** Docker, Kubernetes, AWS, OVHcloud, Vercel, Netlify,
 
@@ -28,9 +28,9 @@ We are enthusiastic learners with a constant drive to stay updated with the late
 
 Below, you can find a curated selection of our noteworthy projects that highlight our diverse work in the Web3 domain. Click on the project titles to explore further:
 
-1. [SIGDAO](https://sigdao.io): Autonomous dApp Store, Web3 builder, and Community Power-up.
+1. [SIGDAO.io](https://sigdao.io): Autonomous dApp Store, Web3 builder, and Community Power-up.
 
-2. [Bettermi](https://bettermi.io): Web3 lifestyle dAPP that rewards users for fitness. Featured Selfie to Earn, BMI fitness tracking, 'green' NFT pass,  Workout game-fi and Charactered AI Coach.
+2. [Bettermi.io](https://bettermi.io): Web3 lifestyle dAPP that rewards users for fitness. Featured Selfie to Earn, BMI fitness tracking, 'green' NFT pass,  Workout game-fi and Charactered AI Coach.
 
 3. [I-Academy NFT Certificate](https://www.signumart.io/profile/17748841132376126922): a Learn & Earn journey bridging the tech talent gap & empowering startupper, creator & SME with Blockchain & Web3 future-skills. As endorsed by leading education VTC - HK NITTP & TQUK RQF, we have successfully equipped learners for the future's decentralized economy, enhancing their companies' efficiency, security & competitiveness.
 
