@@ -1,12 +1,12 @@
 # SIGDAO - Together we build web3 dAPP better! JOIN US! 
 
-Sigdao Foundation - Empower Web3 Startuper, Creator & dAPPer with Autonomous dApp Store, Web3 builder, and Community Power-up.
+Sigdao Foundation - Empower Web3 Startuper, Creator & dApper with Autonomous dApp Store, Web3 builder, and Community Power-up.
 Opensource, Decentralised & Funded by users. 
 No non-tech investors, No bullshit. You have your say!
 
-> **About Me**
+> **About Us**
 > 
-> SIGDAO is an organization on GitHub with a strong focus on empowering Web3 startups and creators. As a foundation, we strive to develop decentralized and open-source projects, contributing to the growth and advancement of the Web3 ecosystem. Our interests revolve around Web3 technologies, decentralized applications (dApps), and building a community-powered ecosystem.
+> SIGDAO is an organization on SIGNUM & GitHub with a strong focus on empowering Web3 startups, creators & dApper. As a foundation, we strive to develop decentralized and open-source projects, contributing to the growth and advancement of the Web3 ecosystem. Our interests revolve around Web3 technologies, decentralized applications (dApps), and building a community-powered ecosystem. Explore, collaborate and together let's shape the future of Web3!
 
 ![SIGDAO Logo](https://pbs.twimg.com/profile_images/1690982903273213952/R_lbVNMA_400x400.jpg)
 
@@ -57,4 +57,4 @@ To learn more about SIGDAO and the work we are doing, you can reach us through t
 - **Email:** Please feel free to drop us an email at info@sigdao.io if you have any queries or collaboration opportunities.
 - **Twitter:** [![Twitter](https://img.shields.io/twitter/follow/sigdao_io?style=social)](https://twitter.com/sigdao_io)
 
-Thank you for visiting our GitHub profile and showing interest in SIGDAO's work. Explore, collaborate, and together let's shape the future of Web3!
+🚀🌕 May the SIGNUM be with you, always! 
