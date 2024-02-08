@@ -14,7 +14,7 @@ No non-tech investors, No bullshit. You have your say!
 
 At SIGDAO, we bring a diverse skill set to the table and actively explore emerging technologies in the Web3 space. Here is a peek at some of our areas of expertise:
 
-**Smart Contracts and Blockchain:** **SignumJS, SmartJ, SmartC, SignumJ, Signum.network Nodes**
+[**Smart Contracts and Blockchain:** **SignumJS, SmartJ, SmartC, SignumJ, Signum.network Nodes**](https://github.com/signum-network)
 
 **Decentralized Applications (dApps):** SIGDAO.IO, Bettermi.io, Signum XT-Wallet, Phoenix Wallet, IPFS,
 
@@ -48,14 +48,6 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 
 💡 Support & Donate SIGDAO FOUNDATION with SIGNA$: [Signum account address: S-VQRE-VQGZ-MVKL-F6VGD](https://explorer.signum.network/address/15401014253724752620#)
 
-## GitHub Stats 📈
-
-Our GitHub presence speaks of our active involvement and commitment to open-source development. Let's take a look at our GitHub statistics:
-
-![SIGDAO's GitHub Statistics](https://github-readme-stats.vercel.app/)
-
-From the statistics above, you can see our contribution to the Open-Source Community. It depicts our activity level and reflects the number of public repos we have curated over time.
-
 ## Contact Information 📫
 
 To learn more about SIGDAO and the work we are doing, you can reach us through the following channels:
@@ -63,7 +55,6 @@ To learn more about SIGDAO and the work we are doing, you can reach us through t
 - **Website:** Visit [SIGDAO.io](https://sigdao.io) for more information about our foundation and the projects we support.
 - **Discord:** Join us at [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
 - **Email:** Please feel free to drop us an email at info@sigdao.io if you have any queries or collaboration opportunities.
-
-Don't forget to connect with us on Twitter: [![Twitter](https://img.shields.io/twitter/follow/sigdao_io?style=social)](https://twitter.com/sigdao_io)
+- **Twitter:** [![Twitter](https://img.shields.io/twitter/follow/sigdao_io?style=social)](https://twitter.com/sigdao_io)
 
 Thank you for visiting our GitHub profile and showing interest in SIGDAO's work. Explore, collaborate, and together let's shape the future of Web3!
