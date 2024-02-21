@@ -4,11 +4,19 @@ Sigdao Foundation - Empower Web3 Startuper, Creator & dApper with Autonomous dAp
 Opensource, Decentralised & Funded by users. 
 No non-tech investors, No bullshit. You have your say!
 
+![daodao banner](https://github.com/SIGDAO/.github/blob/main/profile/daodao-github-banner.png)
+
 > **About Us**
 > 
 > SIGDAO is an organization on SIGNUM & GitHub with a strong focus on empowering Web3 startups, creators & dApper. As a foundation, we strive to develop decentralized and open-source projects, contributing to the growth and advancement of the Web3 ecosystem. Our interests revolve around Web3 technologies, decentralized applications (dApps), and building a community-powered ecosystem. Explore, collaborate and together let's shape the future of Web3!
 
-![daodao banner](https://github.com/SIGDAO/.github/blob/main/profile/daodao-github-banner.png)
+## Community 📫
+
+- **Website:** [SIGDAO.io](https://sigdao.io) 
+- **Discord:** [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
+- **Twitter:** [![Twitter](https://img.shields.io/twitter/follow/sigdao_io?style=social)](https://twitter.com/sigdao_io)
+- **Github** [Discussion and Bugs&Nuts Bounty](https://github.com/orgs/SIGDAO/discussions)
+- **Email:** info@sigdao.io 
 
 ## Tech Stacks 💡
 
@@ -51,14 +59,6 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 ## SIGDAO TOKEN DISTRIBUTION 🚀🌕🌕
 
 ![sigdao token distribution](https://github.com/SIGDAO/.github/blob/main/profile/sigdao-token-distribution.png)
-
-## Contact Information 📫
-
-To learn more about SIGDAO and the work we are doing, you can reach us through the following channels:
-
-- **Website:** Visit [SIGDAO.io](https://sigdao.io) for more information about our foundation and the projects we support.
-- **Discord:** Join us at [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
-- **Email:** Please feel free to drop us an email at info@sigdao.io if you have any queries or collaboration opportunities.
-- **Twitter:** [![Twitter](https://img.shields.io/twitter/follow/sigdao_io?style=social)](https://twitter.com/sigdao_io)
+![sigdao token dappincub](https://github.com/SIGDAO/.github/blob/main/profile/sigdao-token-dappIncub.png)
 
 🚀 May the SIGNUM be with you, always!  🚀🌕🌕🌕
