@@ -22,7 +22,7 @@ No non-tech investors, No bullshit. You have your say!
 
 At SIGDAO, we bring a diverse skill set to the table and actively explore emerging technologies in the Web3 space. Here is a peek at some of our areas of expertise:
 
-[**Smart Contracts and Blockchain:** **SignumJS, SmartJ, SmartC, SignumJ, Signum.network Nodes**](https://github.com/signum-network)
+**Smart Contracts and Blockchain:** [**SignumJS, SmartJ, SmartC, SignumJ**](https://github.com/signum-network); [**Signum Network Nodes**](https://signum.network)
 
 **Decentralized Applications (dApps):** SIGDAO.IO, Bettermi.io, Signum XT-Wallet, Phoenix Wallet, IPFS,
 
@@ -44,7 +44,9 @@ Below, you can find a curated selection of our noteworthy projects that highligh
 
 Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all of our public repositories and dive deeper into the exciting work we are doing!
 
-## SIGDAO TOKEN 🚀🌕
+## SIGDAO SMART TOKEN 🚀🌕
+
+TOKEN ID:5453974739826751020 | [Checkout on SIGNUM Explorer:](https://explorer.signum.network/asset/5453974739826751020)
 
 💡 Pitch & List your project idea on SIGDAO Web3 dAPP Store (Under Construction...)
 
@@ -61,4 +63,4 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 ![sigdao token distribution](https://github.com/SIGDAO/.github/blob/main/profile/sigdao-token-distribution.png)
 ![sigdao token dappincub](https://github.com/SIGDAO/.github/blob/main/profile/sigdao-token-dappIncub.png)
 
-🚀 May the SIGNUM be with you, always!  🚀🌕🌕🌕
+🚀 May the [SIGNUM](https://www.coingecko.com/en/coins/signum) be with you, always!  🚀🌕🌕🌕
