@@ -8,7 +8,7 @@ No non-tech investors, No bullshit. You have your say!
 > 
 > SIGDAO is an organization on SIGNUM & GitHub with a strong focus on empowering Web3 startups, creators & dApper. As a foundation, we strive to develop decentralized and open-source projects, contributing to the growth and advancement of the Web3 ecosystem. Our interests revolve around Web3 technologies, decentralized applications (dApps), and building a community-powered ecosystem. Explore, collaborate and together let's shape the future of Web3!
 
-![daodao banner](https://github.com/SIGDAO/.github/edit/main/profile/daodao-github-banner.png)
+![daodao banner](https://github.com/SIGDAO/.github/blob/main/profile/daodao-github-banner.png)
 
 ## Tech Stacks 💡
 
@@ -50,7 +50,7 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 
 ## SIGDAO TOKEN DISTRIBUTION 🚀🌕🌕
 
-![sigdao token distribution](https://github.com/SIGDAO/.github/edit/main/profile/sigdao-token-distribution.png)
+![sigdao token distribution](https://github.com/SIGDAO/.github/blob/main/profile/sigdao-token-distribution.png)
 
 ## Contact Information 📫
 
