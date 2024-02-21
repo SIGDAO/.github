@@ -8,7 +8,7 @@ No non-tech investors, No bullshit. You have your say!
 > 
 > SIGDAO is an organization on SIGNUM & GitHub with a strong focus on empowering Web3 startups, creators & dApper. As a foundation, we strive to develop decentralized and open-source projects, contributing to the growth and advancement of the Web3 ecosystem. Our interests revolve around Web3 technologies, decentralized applications (dApps), and building a community-powered ecosystem. Explore, collaborate and together let's shape the future of Web3!
 
-![SIGDAO Logo](https://pbs.twimg.com/profile_images/1690982903273213952/R_lbVNMA_400x400.jpg)
+![daodao banner](https://github.com/SIGDAO/.github/edit/main/profile/daodao-github-banner.png)
 
 ## Tech Stacks 💡
 
@@ -28,11 +28,11 @@ We are enthusiastic learners with a constant drive to stay updated with the late
 
 Below, you can find a curated selection of our noteworthy projects that highlight our diverse work in the Web3 domain. Click on the project titles to explore further:
 
-1. [SIGDAO.io](https://sigdao.io): Autonomous dApp Store, Web3 builder, and Community Power-up.
+🌕 [SIGDAO.io](https://sigdao.io): Autonomous dApp Store, Web3 builder, and Community Power-up.
 
-2. [Bettermi.io](https://bettermi.io): Web3 lifestyle dAPP that rewards users for fitness. Featured Selfie to Earn, BMI fitness tracking, 'green' NFT pass,  Workout game-fi and Charactered AI Coach.
+🌕 [Bettermi.io](https://bettermi.io): Web3 lifestyle dAPP that rewards users for fitness. Featured Selfie to Earn, BMI fitness tracking, 'green' NFT pass,  Workout game-fi and Charactered AI Coach.
 
-3. [I-Academy NFT Certificate](https://www.signumart.io/profile/17748841132376126922): a Learn & Earn journey bridging the tech talent gap & empowering startupper, creator & SME with Blockchain & Web3 future-skills. As endorsed by leading education VTC - HK NITTP & TQUK RQF, we have successfully equipped learners for the future's decentralized economy, enhancing their companies' efficiency, security & competitiveness.
+🌕 [I-Academy NFT Certificate](https://www.signumart.io/profile/17748841132376126922): a Learn & Earn journey bridging the tech talent gap & empowering startupper, creator & SME with Blockchain & Web3 future-skills. As endorsed by leading education VTC - HK NITTP & TQUK RQF, we have successfully equipped learners for the future's decentralized economy, enhancing their companies' efficiency, security & competitiveness.
 
 Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all of our public repositories and dive deeper into the exciting work we are doing!
 
@@ -48,6 +48,10 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 
 💡 Support & Donate SIGDAO FOUNDATION with SIGNA$: [Signum account address: S-VQRE-VQGZ-MVKL-F6VGD](https://explorer.signum.network/address/15401014253724752620#)
 
+## SIGDAO TOKEN DISTRIBUTION 🚀🌕🌕
+
+![sigdao token distribution](https://github.com/SIGDAO/.github/edit/main/profile/sigdao-token-distribution.png)
+
 ## Contact Information 📫
 
 To learn more about SIGDAO and the work we are doing, you can reach us through the following channels:
@@ -57,4 +61,4 @@ To learn more about SIGDAO and the work we are doing, you can reach us through t
 - **Email:** Please feel free to drop us an email at info@sigdao.io if you have any queries or collaboration opportunities.
 - **Twitter:** [![Twitter](https://img.shields.io/twitter/follow/sigdao_io?style=social)](https://twitter.com/sigdao_io)
 
-🚀🌕 May the SIGNUM be with you, always! 
+🚀 May the SIGNUM be with you, always!  🚀🌕🌕🌕
