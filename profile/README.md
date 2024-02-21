@@ -12,10 +12,10 @@ No non-tech investors, No bullshit. You have your say!
 
 ## Community 📫
 
-- **Website:** [SIGDAO.io](https://sigdao.io) 
-- **Discord:** [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
+- **Website:** [SIGDAO.IO](https://sigdao.io) 
+- **Discord:** [SIGDAO DISCORD](https://discord.gg/BF8NjfEd4Y) ![Discord](https://img.shields.io/discord/958413943813050408)
 - **Twitter:** [![Twitter](https://img.shields.io/twitter/follow/sigdao_io?style=social)](https://twitter.com/sigdao_io)
-- **Github** [Discussion and Bugs&Nuts Bounty](https://github.com/orgs/SIGDAO/discussions)
+- **Github:** [Discussion and Bugs&Nuts Bounty](https://github.com/orgs/SIGDAO/discussions)
 - **Email:** info@sigdao.io 
 
 ## Tech Stacks 💡
