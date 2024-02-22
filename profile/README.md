@@ -48,15 +48,18 @@ Please visit our [GitHub Organization](https://github.com/SIGDAO) to explore all
 
 TOKEN ID:5453974739826751020 | [Checkout on SIGNUM Explorer:](https://explorer.signum.network/asset/5453974739826751020)
 
-💡 Pitch & List your project idea on SIGDAO Web3 dAPP Store (Under Construction...)
+💡 Pitch & List your project idea on SIGDAO Web3 dAPP Store 
 
-💡 Vote & Fund for your project and community projects with SIGDAO, No non-tech investors, No bullshit. You have your say! (Under Construction...)
+💡 Build & deploy your web3 dApp by drag & drop builder
 
-💡 Get SIGDAO token by contributing or playing in above Projects and [SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
+💡 Enhance the web3 builder features, templates & use cases by community created Power up
+
+💡 Vote & Fund for your favourite project & community projects with SIGDAO token, No non-tech investors, No bullshit. You have your say! 
+
+💡 Get SIGDAO token by "contributing" or "playing" above dApp Projects, and ["Chatting" in SIGDAO DISCORD community](https://discord.gg/BF8NjfEd4Y)
 
 💡 Trade SIGDAO Token at [Signumswap DEX:](https://www.signumswap.com/tokens/5453974739826751020)
 
-💡 Support & Donate SIGDAO FOUNDATION with SIGNA$: [Signum account address: S-VQRE-VQGZ-MVKL-F6VGD](https://explorer.signum.network/address/15401014253724752620#)
 
 ## SIGDAO TOKEN DISTRIBUTION 🚀🌕🌕
 
@@ -64,3 +67,5 @@ TOKEN ID:5453974739826751020 | [Checkout on SIGNUM Explorer:](https://explorer.s
 ![sigdao token dappincub](https://github.com/SIGDAO/.github/blob/main/profile/sigdao-token-dappIncub.png)
 
 🚀 May the [SIGNUM](https://www.coingecko.com/en/coins/signum) be with you, always!  🚀🌕🌕🌕
+
+💡 Support & Donate SIGDAO FOUNDATION with SIGNA$: [Signum account address: S-VQRE-VQGZ-MVKL-F6VGD](https://explorer.signum.network/address/15401014253724752620#)
