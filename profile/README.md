@@ -36,6 +36,7 @@ We are enthusiastic learners with a constant drive to stay updated with the late
 Below, you can find a curated selection of our noteworthy projects that highlight our diverse work in the Web3 domain. Click on the project titles to explore further:
 
 🌕 [SIGDAO.io](https://sigdao.io): Comprehensive Green Web3 Ecosystem - from 0 to hero with Autonomous dApp Store, Web3 builder, and Community Power-up.
+  
   🌕 iHost: https://app.sigdao.io - AI-Powered No-code platform facilitating the development of smart contracts & decentralized applications (dApps) on Signum Blockchain Network.
 
   🌕 dApp Store: https://store.sigdao.io - a launchpad, a funding platform, and a community dedicated to supporting the next generation of green dApps - projects get Listed, Voted and Funded without pain.
