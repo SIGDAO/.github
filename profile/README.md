@@ -97,19 +97,7 @@ You can acquire SIGDAO tokens through the following ways:
 
 💡 Purchase from other users: You can purchase SIGDAO tokens directly from other users through peer-to-peer exchanges.
 
-Conclusion:
-
-The SIGDAO token is a vital component of the SIGDAO ecosystem, empowering the community to drive the development and adoption of innovative dApps on the Signum blockchain. By holding SIGDAO tokens, you can directly contribute to the growth of the Web3 ecosystem and potentially benefit from the value appreciation of the token. Join the SIGDAO community today and be a part of shaping the future of decentralized applications!
-
-💡 Pitch & List your project idea on SIGDAO Web3 dAPP Store 
-
-💡 Build & deploy your web3 dApp by drag & drop builder
-
-💡 Enhance the web3 builder features, templates & use cases by community created Power up
-
-💡 Vote & Fund for your favourite project & community projects with SIGDAO token, No non-tech investors, No bullshit. You have your say! 
-
-💡 Get SIGDAO token by "contributing" or "playing" above dApp Projects, and 
+// The SIGDAO token is a vital component of the SIGDAO ecosystem, empowering the community to drive the development and adoption of innovative dApps on the Signum blockchain. By holding SIGDAO tokens, you can directly contribute to the growth of the Web3 ecosystem and potentially benefit from the value appreciation of the token. Join the SIGDAO community today and be a part of shaping the future of decentralized applications! //
 
 
 ## SIGDAO TOKEN DISTRIBUTION 🚀🌕🌕
