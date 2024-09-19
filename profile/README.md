@@ -37,9 +37,9 @@ Below, you can find a curated selection of our noteworthy projects that highligh
 
 🌕 [SIGDAO.io](https://sigdao.io): Comprehensive Green Web3 Ecosystem - from 0 to hero with Autonomous dApp Store, Web3 builder, and Community Power-up.
   
-  🌕 iHost: https://app.sigdao.io - AI-Powered No-code platform facilitating the development of smart contracts & decentralized applications (dApps) on Signum Blockchain Network.
+  - 🌕 iHost: https://app.sigdao.io - AI-Powered No-code platform facilitating the development of smart contracts & decentralized applications (dApps) on Signum Blockchain Network.
 
-  🌕 dApp Store: https://store.sigdao.io - a launchpad, a funding platform, and a community dedicated to supporting the next generation of green dApps - projects get Listed, Voted and Funded without pain.
+  - 🌕 dApp Store: https://store.sigdao.io - a launchpad, a funding platform, and a community dedicated to supporting the next generation of green dApps - projects get Listed, Voted and Funded without pain.
 
 🌕 [Bettermi.io](https://bettermi.io): Web3 lifestyle & loyalty dAPP that rewards users for fitness. Featured Selfie to BMI AI model, BMI fitness tracking, 'green' NFT pass, Workout game-fi and Charactered AI Coach.
 
