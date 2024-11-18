@@ -105,6 +105,41 @@ You can acquire SIGDAO tokens through the following ways:
 ![sigdao token distribution](https://github.com/SIGDAO/.github/blob/main/profile/sigdao-token-distribution.png)
 ![sigdao token dappincub](https://github.com/SIGDAO/.github/blob/main/profile/sigdao-token-dappIncub.png)
 
+### Ways you can start your dApp projects, get SIGDAO TOKEN Distribution & listed on the SIGDAO dApp Store:
+
+1. Provide Feedback and Validation:
+
+Review project descriptions and whitepapers: Carefully review the information provided by dApp projects on the SIGDAO dApp Store. This will help you understand their goals, target audience, and potential impact.
+
+Share your thoughts and suggestions: Use the platform's feedback mechanisms to provide constructive feedback on dApp projects. This could include suggestions for improvement, questions about their functionality, or ideas for potential partnerships.
+
+Vote on projects: Cast your vote for dApp projects that you believe have strong potential and deserve community support. Your vote will help signal to other users and investors that the project is worth considering.
+
+2. Build your own dAPP & Contribute Your Skills and Expertise:
+
+Identify your areas of expertise: Consider the skills and knowledge you possess that could be valuable to dApp projects. This could include coding, design, marketing, community management, or other relevant areas.
+
+Reach out to project teams: Contact the teams behind dApp projects that align with your interests and offer your assistance. You can do this through the platform's communication channels or by reaching out directly to the project team.
+
+Contribute to your project's development: Depending on your skills and the project's needs, you could contribute to the project's codebase, design assets, marketing materials, or community outreach efforts.
+
+3. Participate in Community Activities:
+
+Join the SIGDAO Discord server: The SIGDAO Discord server is a vibrant community of dApp developers, investors, and enthusiasts. Join the server to connect with other contributors, discuss dApp projects, and participate in community events.
+
+Attend SIGDAO workshops and webinars: SIGDAO regularly hosts workshops and webinars on various topics related to dApp development and the Web3 ecosystem. These events provide valuable learning opportunities and networking opportunities.
+
+Share your knowledge and experience: Share your insights and expertise with other community members through blog posts, social media, or other channels. This will help educate others about dApps and encourage more people to participate in the SIGDAO ecosystem.
+
+4. Invest in dApp Projects:
+
+Use SIGDAO tokens to invest in dApp projects: You can use SIGDAO tokens to invest in dApp projects that you believe have strong potential. This will provide them with the financial resources they need to develop and grow.
+
+Participate in crowdfunding campaigns: Many dApp projects on the SIGDAO dApp Store conduct crowdfunding campaigns to raise funds from the community. You can participate in these campaigns to support promising projects and receive potential rewards.
+
+// By contributing to dApp projects on the SIGDAO dApp Store, you can play a vital role in shaping the future of Web3. Whether you provide feedback, contribute your skills, participate in community activities, or invest in projects, your involvement will help empower dApp developers and accelerate the growth of the Web3 ecosystem.
+
+
 🚀 May the [SIGNUM](https://www.coingecko.com/en/coins/signum) be with you, always!  🚀🌕🌕🌕
 
 💡 Support & Donate SIGDAO FOUNDATION with SIGNA$: [Signum account address: S-VQRE-VQGZ-MVKL-F6VGD](https://explorer.signum.network/address/15401014253724752620#)
