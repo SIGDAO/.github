@@ -137,9 +137,11 @@ Use SIGDAO tokens to invest in dApp projects: You can use SIGDAO tokens to inves
 
 Participate in crowdfunding campaigns: Many dApp projects on the SIGDAO dApp Store conduct crowdfunding campaigns to raise funds from the community. You can participate in these campaigns to support promising projects and receive potential rewards.
 
-// By contributing to dApp projects on the SIGDAO dApp Store, you can play a vital role in shaping the future of Web3. Whether you provide feedback, contribute your skills, participate in community activities, or invest in projects, your involvement will help empower dApp developers and accelerate the growth of the Web3 ecosystem.
+### By contributing to dApp projects on the SIGDAO dApp Store, you can play a vital role in shaping the future of Web3. Whether you provide feedback, contribute your skills, participate in community activities, or invest in projects, your involvement will help empower dApp developers and accelerate the growth of the Web3 ecosystem.
 
 
+<p align="center"> 
 🚀 May the [SIGNUM](https://www.coingecko.com/en/coins/signum) be with you, always!  🚀🌕🌕🌕
 
 💡 Support & Donate SIGDAO FOUNDATION with SIGNA$: [Signum account address: S-VQRE-VQGZ-MVKL-F6VGD](https://explorer.signum.network/address/15401014253724752620#)
+</p>
