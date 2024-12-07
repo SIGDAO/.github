@@ -1,7 +1,8 @@
-# SIGDAO - Together we build web3 dAPP greener & better! JOIN US! 
+# SIGDAO - Together we build web3 dAPP greener & easier! JOIN US! 
 
-Sigdao Foundation - Empower Web3 Creator from 0 to hero with Autonomous dApp Store, Web3 builder, and Community Power-up.
-Opensource, Decentralised & Funded by users. 
+Sigdao Foundation & Lab - Empower Web3 Creator fr 0 to Hero w Green SIGNUM dApp Store, Web3 builder & Community Power-ups.
+// Open-source, decentralized and user-funded. Tech-First, No Fomo-Investor No bullshit. You have your say! //
+
 
 ![daodao banner](https://github.com/SIGDAO/.github/blob/main/profile/daodao-github-banner.png)
 
