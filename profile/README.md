@@ -1,4 +1,4 @@
-# SIGDAO - Together we build web3 dAPP greener & easier! JOIN US! 
+# SIGDAO - Together we build web3 dAPP greener & easier! [JOIN US!](https://github.com/orgs/SIGDAO/team) 
 
 Sigdao Foundation & Lab - Empower Web3 Creator fr 0 to Hero w Green SIGNUM dApp Store, Web3 builder & Community Power-ups.
 
